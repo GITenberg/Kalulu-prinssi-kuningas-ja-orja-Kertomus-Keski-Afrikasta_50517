@@ -1,4 +1,8 @@
 _repo: Kalulu-prinssi-kuningas-ja-orja-Kertomus-Keski-Afrikasta_50517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stanley, Henry M. (Henry Morton)
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1714
     wikipedia: http://en.wikipedia.org/wiki/Henry_Morton_Stanley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50517#Kalulu-prinssi-kuningas-ja-orja-Kertomus-Keski-Afrikasta
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
